@@ -1,0 +1,15 @@
+earthengine-api
+geemap
+requests-cache
+xgboost
+shap
+folium
+matplotlib
+seaborn
+scikit-learn
+pandas
+numpy
+geopandas
+torch
+torchvision
+tqdm
