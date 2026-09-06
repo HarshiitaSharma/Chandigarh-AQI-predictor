@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data & credentials
+*.csv
+satellite_cache.sqlite
+.env
+*.key
+service-account*.json
+earthengine_credentials
+
+# Model artifacts / generated outputs
+*.png
+*.json
+!requirements.json
+xgb_chandigarh.json
+lstm_chandigarh.pt
+
+# OS
+.DS_Store
